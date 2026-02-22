@@ -4,7 +4,7 @@ export const BUSINESS_INFO = {
   zipCity: "76571 Gaggenau",
   phone: "+49 177 7456428",
   whatsappUrl: "https://wa.me/491777456428",
-  email: "jetreifen.gaggenau@gmail.com",
+email: "info@jetreifen-service.de",
   reviews: 69,
   rating: 5.0,
   googleMapsUrl: "https://maps.google.com/?q=Mercedesstraße+3,+76571+Gaggenau"
