@@ -132,12 +132,7 @@ function App() {
   an Cal.com übertragen und dort verarbeitet. Zur Terminverwaltung werden diese Daten automatisch mit unserem 
   Google Calendar (Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) synchronisiert.
 </p>
-<p className="mt-2">
-  Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung bzw. vorvertragliche Maßnahmen). 
-  Weitere Informationen finden Sie in den Datenschutzerklärungen von Cal.com 
-  (<a href="https://cal.com/privacy" target="_blank" rel="noopener noreferrer" className="text-brand-500 hover:underline">https://cal.com/privacy</a>) 
-  und Google (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-brand-500 hover:underline">https://policies.google.com/privacy</a>).
-</p>
+</section>
 
       <div className="pt-6 border-t border-gray-100 text-[10px] text-gray-400 italic">
         Quelle: eRecht24
