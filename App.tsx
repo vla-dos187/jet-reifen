@@ -125,9 +125,19 @@ function App() {
         <h4 className="font-bold mt-6 mb-2 text-brand-600">Google Maps</h4>
         <p>Diese Seite nutzt den Kartendienst Google Maps. Anbieter ist die Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland. Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP-Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung.</p>
         
-        <h4 className="font-bold mt-6 mb-2 text-brand-600">Online-Terminbuchung (Cal.com) und Google Calendar</h4>
-        <p>Wir binden auf unserer Website das Buchungs-Widget des Dienstes Cal.com (Anbieter: Cal.com, Inc., USA) ein. Wenn Sie einen Termin buchen, werden Ihre eingegebenen Daten (z. B. Name, E-Mail, gewünschte Leistung) verarbeitet, um den Termin zu planen. Diese Daten werden zur Terminverwaltung mit unserem Google Calendar (Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) synchronisiert. Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung bzw. vorvertragliche Maßnahmen). Da Daten in die USA übertragen werden können, nutzen wir die Standardvertragsklauseln der EU-Kommission als Grundlage für die Datenverarbeitung. Details finden Sie bei Cal.com (<a href="https://cal.com/privacy" target="_blank" rel="noopener noreferrer" className="text-brand-500 hover:underline">https://cal.com/privacy</a>) und Google (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-brand-500 hover:underline">https://policies.google.com/privacy</a>).</p>
-      </section>
+        <h4 className="font-bold mt-6 mb-2 text-brand-600">Online-Terminbuchung (Cal.com) & Google Calendar</h4>
+<p>
+  Wir nutzen für die Online-Terminbuchung den Dienst Cal.com (Anbieter: Cal.com, Inc., USA). 
+  Wenn Sie einen Termin über unsere Website buchen, werden Ihre eingegebenen Daten (z. B. Name, E-Mail, Telefonnummer, gewünschte Leistung) 
+  an Cal.com übertragen und dort verarbeitet. Zur Terminverwaltung werden diese Daten automatisch mit unserem 
+  Google Calendar (Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) synchronisiert.
+</p>
+<p className="mt-2">
+  Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung bzw. vorvertragliche Maßnahmen). 
+  Weitere Informationen finden Sie in den Datenschutzerklärungen von Cal.com 
+  (<a href="https://cal.com/privacy" target="_blank" rel="noopener noreferrer" className="text-brand-500 hover:underline">https://cal.com/privacy</a>) 
+  und Google (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-brand-500 hover:underline">https://policies.google.com/privacy</a>).
+</p>
 
       <div className="pt-6 border-t border-gray-100 text-[10px] text-gray-400 italic">
         Quelle: eRecht24
