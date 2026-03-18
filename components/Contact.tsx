@@ -103,17 +103,17 @@ const Contact: React.FC = () => {
 
           {/* Map Placeholder */}
           <div className="bg-gray-100 rounded-2xl overflow-hidden h-80 md:h-full relative shadow-inner">
-             <iframe 
-               width="100%" 
-               height="100%" 
-               style={{border:0}}
-               loading="lazy" 
-               allowFullScreen
-               referrerPolicy="no-referrer-when-downgrade"
-               title="Standort Jet Reifen-Service"
-               className="grayscale hover:grayscale-0 transition-all duration-500"
-               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.7!2d8.3!3d48.8!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDjCsDQ4JzAwLjAiTiA4wrAxOCcwMC4wIkU!5e0!3m2!1sde!2sde!4v1600000000000!5m2!1sde!2sde">
-             </iframe> 
+             <iframe
+                 width="100%"
+                 height="100%"
+                 style={{ border: 0 }}
+                 loading="lazy"
+                 allowFullScreen
+                 referrerPolicy="no-referrer-when-downgrade"
+                 title="Standort Jet Reifen-Service"
+                 className="grayscale hover:grayscale-0 transition-all duration-500"
+                 src="https://maps.google.com/maps?q=Mercedesstrasse%203,76571%20Gaggenau&t=&z=16&ie=UTF8&iwloc=&output=embed"
+          ></iframe>
           </div>
         </div>
       </div>
